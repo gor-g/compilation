@@ -10,4 +10,4 @@ Executez
 bash compileNtest.sh
 ```
 
-Vérifiez le contenu des fichiers `prixttc.asm`, `pgcd.asm`et `factorial.asm`
+Vérifiez le contenu des fichiers `prixttc.asm`, `pgcd.asm`et `factorial.asm`, qui contiennent également la notation parenthésée.
