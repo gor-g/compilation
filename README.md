@@ -2,7 +2,7 @@
 
 ## Pour tester
 
-Dans le fichier `gradle.properties` mettez le chmain vers le jdk-17 de votre machine.
+Dans le fichier `gradle.properties` mettez le chemin vers le jdk-17 de votre machine.
 
 Executez
 
