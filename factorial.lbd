@@ -1,0 +1,5 @@
+let n = input;
+let result = 1;
+while (n > 0)
+do (let result = result * n; let n = n - 1);
+output result .
